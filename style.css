@@ -1,0 +1,108 @@
+﻿.container{
+    max-width: 1200px;
+}
+.nav {
+    display:flex; 
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkred;
+}
+.menu{
+    list-style: none;
+}
+
+.section{
+    text-align: center;
+}
+.item {
+    padding-bottom: 30px;
+}
+
+.menuItem {
+    padding-right: 50px;
+    color: white;
+}
+
+.menuText {
+    color: white;
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+
+.name {
+    font-weight: bold;
+}
+
+/* body {
+}
+
+.menu {
+    overflow: hidden;
+    background-color: #AE3127;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-size: 24px;
+}
+
+.menu a{
+float: left;
+display: block;
+color: #f2f2f2;
+text-align : center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+.menu a:hover{
+    background: #ddd;
+    color: black;
+}
+
+.content {
+    width: 100%;
+    padding: 16px;
+    margin-top: 30px;
+    height: 150px;
+}
+
+.signinform {
+
+    clear: both;
+    padding: 16px;
+}
+
+.formbuttons {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #AE3127;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+button:hover {
+    background: #ddd;
+    color: black;
+}
+
+.logo{
+    width: 100%;
+    width: 100vw;
+} */
